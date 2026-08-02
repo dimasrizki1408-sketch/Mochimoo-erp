@@ -1,0 +1,7 @@
+/**
+ * Database Installer
+ */
+
+function createDatabase(){
+
+}
